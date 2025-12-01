@@ -12,12 +12,3 @@ for port in range(1, 101):  # scans first 100 ports
     if result == 0:
         print(f"Port {port} is OPEN")
     s.close()
-
-
-
-
-
-
-
-
-
